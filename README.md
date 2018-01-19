@@ -1,2 +1,3 @@
-# leenankurssi
+﻿# leenankurssi
 Yksilöprojektin palautukset
+eka muokkaus
